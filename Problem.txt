@@ -9,4 +9,4 @@ Elaine
 
 represents a binary tree in which Al has two children named Bob and Carol; Bob has two children named Debby and Elaine; and Carol, Debby, and Elaine have no children. Write a program that reads in data from such a file and displays it in a JTree component.
 
-Implement buildTreeFromFile() starting on like 94 of Main.java
+Implement buildTreeFromFile() starting on like 79 of Main.java
